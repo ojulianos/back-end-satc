@@ -13,8 +13,8 @@ public class Main {
         String segundoNome = leitor.nextLine();
 
         Random geradorAleatorio = new Random();
-        geradorAleatorio.nextInt();
+        Integer numeroAleatorio = geradorAleatorio.nextInt(10, 100);
 
-        System.out.println(primeiroNome + ' ' + segundoNome);
+        System.out.println(primeiroNome + ' ' + segundoNome + ' ' + numeroAleatorio);
     }
 }
