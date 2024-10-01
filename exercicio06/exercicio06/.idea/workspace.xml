@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da4868fd-1bbb-4961-a169-33c269bf52bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../exercicio00/exercicio00/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio00/exercicio00/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio00/exercicio00/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio00/exercicio00/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio00/exercicio00/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio00/exercicio00/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio00/exercicio00/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio01/exercicio01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio01/exercicio01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio01/exercicio01/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio01/exercicio01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio01/exercicio01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio01/exercicio01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio01/exercicio01/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio01/exercicio01/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio02/exercicio02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio02/exercicio02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio02/exercicio02/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio02/exercicio02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio02/exercicio02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio02/exercicio02/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio02/exercicio02/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio02/exercicio02/src/main/java/org/example/Jogo.Java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio02/exercicio02/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio02/exercicio02/src/main/java/org/example/Personagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio03/exercicio03/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio03/exercicio03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio03/exercicio03/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio03/exercicio03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio03/exercicio03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio03/exercicio03/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio03/exercicio03/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio03/exercicio03/src/main/java/org/example/Barco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio03/exercicio03/src/main/java/org/example/BasePorto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio03/exercicio03/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio03/exercicio03/src/main/java/org/example/PortoGrande.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio03/exercicio03/src/main/java/org/example/PortoPequeno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio04/exercicio04/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio04/exercicio04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio04/exercicio04/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio04/exercicio04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio04/exercicio04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio04/exercicio04/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio04/exercicio04/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio04/exercicio04/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio04/exercicio04/src/main/java/org/example/MusicCloud.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio04/exercicio04/src/main/java/org/example/Musica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio04/exercicio04/src/main/java/org/example/Playlist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/src/main/java/org/example/AnyTube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/src/main/java/org/example/Fotogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/src/main/java/org/example/MyBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/src/main/java/org/example/PlataformaSocial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio05/exercicio05/src/main/java/org/example/Postagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Cinema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Ingresso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio07/exercicio07/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio07/exercicio07/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio07/exercicio07/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio07/exercicio07/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio07/exercicio07/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio07/exercicio07/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio07/exercicio07/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio07/exercicio07/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio08/exercicio08/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio08/exercicio08/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio08/exercicio08/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio08/exercicio08/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio08/exercicio08/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio08/exercicio08/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio08/exercicio08/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercicio08/exercicio08/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ml8UbBCYr5by4grIxMi51b4tzY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/ProgramasWeb/backend-2024-2/codigos-juliano/exercicio07",
+    "onboarding.tips.debug.path": "C:/ProgramasWeb/backend-2024-2/codigos-juliano/exercicio06/exercicio06/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da4868fd-1bbb-4961-a169-33c269bf52bf" name="Changes" comment="" />
+      <created>1727639819215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727639819215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
