@@ -101,7 +101,7 @@ public class FipeService {
     private JsonNode fazerRequisicaoHttp(String url) throws Exception {
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
-        headers.set("X-Subscription-Token", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI5MTg2MWQ5Yy03OGQ0LTQyYjYtYTFhOS1mOGFhMTc0ODlkN2YiLCJlbWFpbCI6Imp1bGlhbm8uc2lsNkBnbWFpbC5jb20iLCJpYXQiOjE3Mjg0MjY5Mzh9.foQkYDkfhoylDgxYTepJWJ8cDy4okP9ICg0UDpOidUg");
+        // headers.set("X-Subscription-Token", "");
 
         ResponseEntity<String> response = restTemplate.exchange(url, HttpMethod.GET, new HttpEntity<>(headers), String.class);
         return mapper.readTree(response.getBody());
