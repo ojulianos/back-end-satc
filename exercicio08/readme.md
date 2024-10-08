@@ -17,8 +17,8 @@ Utilizando o framework Spring Web, implemente um controlador e um método que re
 ````txt
 {
   "marca": "Fiat",
-  "modelo": "Uno",
-  "ano": 2023
+  "modelo": "UNO SPORT. Dual. 1.4 B.Edit. Flex 8V 5p",
+  "ano": 2016
 }
 ````
 
@@ -26,7 +26,7 @@ Utilizando o framework Spring Web, implemente um controlador e um método que re
 
 ````txt
 {
-  "valor": 50000.0
-  "mes": "Setembro de 2024"
+	"valor": "R$ 42.363,00",
+	"mes": "outubro de 2024"
 }
 ````
