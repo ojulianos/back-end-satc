@@ -1,0 +1,9 @@
+spring.application.name=avaliacao02
+
+# Climatempo API
+climatempo.api.url=https://apiadvisor.climatempo.com.br/api/v1
+climatempo.api.token=SUA-CHAVE-AQUI
+
+# WeatherAPI
+weatherapi.api.url=http://api.weatherapi.com/v1
+weatherapi.api.key=SUA-CHAVE-AQUI
